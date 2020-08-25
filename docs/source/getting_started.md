@@ -19,6 +19,8 @@ Please note that the PyPi releases are not synchronized with the installer avail
 
 ## Installing on Linux
 
+Interactive one-click examples with documentation can be found on [portal.automagica.com](https://portal.automagica.com)
+
 ### Fedora-like distributions of Linux such as Red Hat Enterprise Linux or CentOS
 You can install Automagica by running the following commands:
 
@@ -31,8 +33,6 @@ You can install Automagica by running the following commands:
 ```
 sudo apt-get install python3-devel chromium -y
 sudo pip3 install automagica -U
-## Installation on Linux
-Interactive one-click examples with documentation can be found on [portal.automagica.com](https://portal.automagica.com)
 ```
 
 ## Your first automation
